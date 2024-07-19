@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iQTggWcGUQEAQIg33q3Xad2n/kddNJCGjL9AoWfQdHk=",
+  "Source": "api_gestion_tareas",
+  "BasePath": "_content/api_gestion_tareas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
